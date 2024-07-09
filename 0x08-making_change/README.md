@@ -1,0 +1,1 @@
+# To find the given amount total from the pile of coins.
