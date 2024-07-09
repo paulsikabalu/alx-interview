@@ -1,0 +1,3 @@
+# Maria and Ben engage in a competitive game. Starting with a set of consecutive integers ranging from 1 to n (inclusive), they alternately select a prime number from the set, removing the chosen prime and all of its multiples from the set. The game continues until a player is unable to make a move, at which point that player loses.
+
+# The game is played over x rounds, with n varying for each round. Given that Maria always takes the first turn and both players use optimal strategies, determine the winner for each round.
